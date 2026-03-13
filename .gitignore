@@ -1,0 +1,5 @@
+venv/
+.env
+resumes/
+.vscode/
+.DS_Store
